@@ -45,8 +45,12 @@ Installation Steps:
 1. Clone the repository https://github.com/SiwaminWibunsin/MyPlan-Application.git
 2. Install dependencies: `npm install`
 3. Environment Setup:
-    - You may need to set up environment variables (if required) in a .env  file.
-    - Example: REACT_APP_API_URL=http://localhost:5000
+    - Create a `.env` file in the `backend` directory
+    - Add the following variables:     
+        PORT=5000
+        NODE_ENV=development
+        JWT_SECRET=your_secure_random_string_here     
+   - Replace `your_secure_random_string_here` with a secure, randomly generated string
 4. Run the application: `npm start`
     This will start the development server and you can access the app in your browser at http://localhost:3000.
 
