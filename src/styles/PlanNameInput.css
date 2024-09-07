@@ -1,0 +1,14 @@
+.plan-name-input {
+  margin: 20px 0;
+}
+
+.plan-name-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.plan-name-field {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
