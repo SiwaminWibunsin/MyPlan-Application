@@ -42,7 +42,7 @@ MyPlan is a comprehensive task management application designed to help users org
 Prerequisites:
     Make sure you have Node.js and npm installed on your machine. You can download them from https://nodejs.org/en
 Installation Steps:
-1. Clone the repository 
+1. Clone the repository https://github.com/SiwaminWibunsin/MyPlan-Application.git
 2. Install dependencies: `npm install`
 3. Environment Setup:
     - You may need to set up environment variables (if required) in a .env  file.
